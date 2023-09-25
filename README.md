@@ -25,5 +25,3 @@ Folder for  features and step definition files.
 
 - wdio.chrome.conf.ts - Configuration file for chrome browser
 - tsconfig.json - Typescript rules
-
-#### Adding test suites
