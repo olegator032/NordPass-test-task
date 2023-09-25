@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "types": ["node", 
+    "@wdio/globals/types",
+    "@wdio/cucumber-framework",],
+    "target": "es2022",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports" : true,
+    "esModuleInterop": true
+  }
+}
