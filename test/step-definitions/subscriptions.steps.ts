@@ -1,5 +1,5 @@
 import { When, Then } from '@wdio/cucumber-framework';
-import { urlContains, urlIs } from 'wdio-wait-for';
+import { urlContains} from 'wdio-wait-for';
 import { MY_NORD_ACCOUNT_URLS, NORD_ACCOUNT_URLS } from '../../src/data/urls.js';
 import { LoginPage } from '../../src/pages/Login/login.page.js';
 import { FrontPage } from '../../src/pages/FrontPage/front.page.js';

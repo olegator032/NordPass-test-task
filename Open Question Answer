@@ -1,0 +1,5 @@
+Password in plain text (not encrypted): 
+The response contains a field labeled "My strong password" with the value "WW91V2VyZUg0Y2szZA==". If this is an actual password this is security issue.
+
+Admin Email address stored:
+The response contains a field labeled "Admin email address" with the value "admin@example.com". Storing admin email address in such an open way is security issue.
